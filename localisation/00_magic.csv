@@ -2636,13 +2636,17 @@ sword_4_desc;This sword hums with the power of lightning, is impossibly fast and
 sword_5;Sword of Destruction;;;;;;;;;;;;;x
 sword_5_desc;At will, the wielder of this sword can call forth a blast of pure destruction which will send enemies scattering into the air, or simply tear them apart from the shock of impact.;;;;;;;;;;;;;x
 ring_of_persuasion;Ring of Persuasion;;;;;;;;;;;;;x
-ring_of_persuasion_desc;While not a common item, this silver ring is surely to grant a bonus to the wearer's negotiation abilities making for a great Steward.;;;;;;;;;;;;;x
+ring_of_persuasion_desc;While not a common item, this copper ring is surely to grant a bonus to the wearer's negotiation abilities making for a great [Root.GetChancellorName].;;;;;;;;;;;;;x
+ring_of_luck;Ring of Luck;;;;;;;;;;;;;x
+ring_of_luck_desc;While not a common item, this silver ring is surely to grant a bonus to the wearer's luck in stewardship making for a great [Root.GetTreasurerName].;;;;;;;;;;;;;x
 ring_of_invisibility;Ring of Invisibility;;;;;;;;;;;;;x
-ring_of_invisibility_desc;While not a common item, this silver ring is surely to grant a bonus to the wearer's stealth abilities making for a great Spymaster.;;;;;;;;;;;;;x
-ring_of_command;Ring of Command;;;;;;;;;;;;;x
-ring_of_command_desc;Very far from being a trinket, this golden ring is surely to grant a bonus to the wearer's martial abilities making for a great Marshal.;;;;;;;;;;;;;x
+ring_of_invisibility_desc;While not a common item, this silver ring is surely to grant a bonus to the wearer's stealth abilities making for a great [Root.GetSpymasterName].;;;;;;;;;;;;;x
 ring_of_speed;Ring of Speed;;;;;;;;;;;;;x
-ring_of_speed_desc;While not a common item, this silver ring is surely to grant a bonus to the wearer's speed and agility, making them hard to keep up with. For shorter periods of time, it can speed up the passage of whole armies.;;;;;;;;;;;;;x
+ring_of_speed_desc;While not a common item, this bronze ring is surely to grant a bonus to the wearer's speed and agility, making them hard to keep up with. For shorter periods of time, it can speed up the passage of whole armies.;;;;;;;;;;;;;x
+ring_of_command;Ring of Command;;;;;;;;;;;;;x
+ring_of_command_desc;Very far from being a trinket, this golden ring is surely to grant a bonus to the wearer's martial abilities making for a great [Root.GetMarshalName].;;;;;;;;;;;;;x
+ring_of_insight;Ring of Insight;;;;;;;;;;;;;x
+ring_of_insight_desc;Very far from being a trinket, this golden ring is surely to grant a bonus the wearer's learning useful for any great Mage or [Root.GetLordSpiritualName].;;;;;;;;;;;;;x
 amulet_of_protection_1;Lesser Amulet of Protection;;;;;;;;;;;;;x
 amulet_of_protection_1_desc;This light blue amulet increases your defences and can also be used during battle to protect formations from enemy arrows.;;;;;;;;;;;;;x
 amulet_of_protection_3;Amulet of Protection;;;;;;;;;;;;;x
